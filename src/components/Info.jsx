@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/info.css";
+import "styles/Info.css";
 import { useGlobalContext } from "../hooks/useGlobalContext";
 import { BiGitRepoForked, BiRegistered } from "react-icons/bi";
 import { FiUsers, FiUserPlus } from "react-icons/fi";
